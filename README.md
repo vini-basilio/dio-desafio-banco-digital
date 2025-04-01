@@ -82,4 +82,4 @@ mvn clean compile exec:java
 
 ---
 
-Feito com 💙 por [Vinícius B.]
+Feito com 💙 por Vinícius B.
